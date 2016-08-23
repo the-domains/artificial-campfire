@@ -1,4 +1,3 @@
-layout_spectrum: 0.0070918111596256495
 typography_spectrum: 0.750260817585513
 color:
   brandStrength: 0.17891510156914592
@@ -6,9 +5,11 @@ color:
   saturation: 0.37670566816814244
   rhythmicContrast: 0.04679817520081997
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+layout_spectrum: 0.0070918111596256495
 name: artificial campfire
+title: minutes not years
