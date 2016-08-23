@@ -1,15 +1,15 @@
-typography_spectrum: 0.750260817585513
-color:
-  brandStrength: 0.17891510156914592
-  lightness: 0.9411291130818427
-  saturation: 0.37670566816814244
-  rhythmicContrast: 0.04679817520081997
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
 layout_spectrum: 0.0070918111596256495
+typography_spectrum: 0.5444539540912956
+color:
+  brandStrength: 0.5552880642935634
+  lightness: 0.8949369760230184
+  saturation: 0.7042139684781432
+  rhythmicContrast: 0.12319304863922298
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: artificial campfire
 title: moments not minutes
